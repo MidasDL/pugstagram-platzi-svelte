@@ -7,7 +7,7 @@
     <div class="Header-container">
         <div class="Header-content">
             <div class="Header-logo">
-                <h1>Pugstagram</h1>
+                <h1>Pugstagram DL</h1>
             </div>
             <div class="Header-nav">
                 <ul>
